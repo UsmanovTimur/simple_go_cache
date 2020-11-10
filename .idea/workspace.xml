@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a48ab20-66fe-4252-97b4-50fe94413a00" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/simple_go_cache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/cache_struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/cache_struct_benchmark_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/cache_struct_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testing.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1k6ZOhR6IjhWm40sRptRTpDU9pX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BenchmarkCacheStruct in simple_go_cache/pkg" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="simple_go_cache" />
+      <working_directory value="$PROJECT_DIR$/pkg" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="simple_go_cache/pkg" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkCacheStruct\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.BenchmarkCacheStruct in simple_go_cache/pkg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a48ab20-66fe-4252-97b4-50fe94413a00" name="Default Changelist" comment="" />
+      <created>1605022971480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605022971480</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="265" width="587" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605027975847">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="539" y="265" width="587" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1528.873@72.27.1528.873" timestamp="1605027975847" />
+    <state x="375" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1605028203887">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="375" y="27" width="912" height="873" key="CommitChangelistDialog2/72.27.1528.873@72.27.1528.873" timestamp="1605028203887" />
+    <state x="723" y="336" width="216" height="268" key="EnvironmentVariablesDialog" timestamp="1605025069778">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="723" y="336" width="216" height="268" key="EnvironmentVariablesDialog/72.27.1528.873@72.27.1528.873" timestamp="1605025069778" />
+    <state x="619" y="224" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605025181572">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="619" y="224" width="424" height="491" key="FileChooserDialogImpl/72.27.1528.873@72.27.1528.873" timestamp="1605025181572" />
+    <state width="1482" height="216" key="GridCell.Tab.0.bottom" timestamp="1605028086211">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="216" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1605028086211" />
+    <state width="1482" height="216" key="GridCell.Tab.0.center" timestamp="1605028086210">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="216" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1605028086210" />
+    <state width="1482" height="216" key="GridCell.Tab.0.left" timestamp="1605028086210">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="216" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1605028086210" />
+    <state width="1482" height="216" key="GridCell.Tab.0.right" timestamp="1605028086211">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="1482" height="216" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1605028086211" />
+    <state x="325" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1605027955461">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="325" y="98" width="1022" height="737" key="SettingsEditor/72.27.1528.873@72.27.1528.873" timestamp="1605027955461" />
+  </component>
+</project>
